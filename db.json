@@ -1,0 +1,32 @@
+{
+    "cursos" :  [
+        {
+            "id"    : 1,
+            "titulo" : "React desde cero",
+            "image" : "https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fsmall%2Fe63e21c1-4f6e-4493-81df-28e263b0adfe.png&w=1920&q=75",
+            "price" : 40,
+            "professor" : "Beto Quiroga"
+        },
+        {
+            "id"    : 2,
+            "titulo" : "Drupal desde cero",
+            "image" : "https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fmedium%2Fca1912b1-6a3f-4a47-8731-a619a4335b50.png&w=1920&q=75",
+            "price" : 30,
+            "professor" : "Beto Quiroga"
+        },
+        {
+            "id"    : 3,
+            "titulo" : "Go desde cero",
+            "image" : "https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fmedium%2Fdb25e339-7441-4aa5-9bd3-1b3e7f3f66ab.jpg&w=1920&q=75",
+            "price" : 50,
+            "professor" : "Alexis Lozada"
+        },
+        {
+            "id"    : 4,
+            "titulo" : "HTML desde cero",
+            "image" : "https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fmedium%2F927f5294-45af-4593-a52f-f437bf16d811.png&w=1920&q=75",
+            "price" : 10,
+            "professor" : "Alvaro Felipe"
+        }
+    ]
+}
